@@ -1,6 +1,6 @@
 # Portfolio
 
-This is the personal portfolio website of Neethu M, showcasing her education, projects, professional development, and contact information. The website is built using HTML, Tailwind CSS, and served using an Express.js backend.
+ The website is built using HTML, Tailwind CSS, and served using an Express.js backend.
 
 ## Features
 
